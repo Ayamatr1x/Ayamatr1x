@@ -2,7 +2,7 @@
 
 💻 I'm a **Computer Science Engineering Student (2025 Grad)** passionate about **System Software, Embedded Systems, AI, and Cloud**.  
 🌟 I enjoy building **compilers, automation workflows, AI-powered tools, and stereoscopic streaming applications**.  
-🚀 Currently preparing for roles like **System Software Engineer / Embedded AI Engineer**.  
+🚀 Currently preparing for roles like **Software Engineer / AI Engineer**.  
 
 ---
 
