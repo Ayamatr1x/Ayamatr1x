@@ -6,10 +6,12 @@
 
 ---
 
-## 🔭 Currently Working On
-- ⚡ Building a **compiler using C++ & LLVM** that generates Verilog/SystemVerilog for an 8-bit CPU  
-- 🤖 Fine-tuning **LLMs (Mistral-7B)** for conversational AI and interview preparation  
-- 🎥 Researching **Low-Latency Stereoscopic Streaming** & **AR Testing Frameworks**  
+
+## 🔭 Currently Learning & Building
+- 🤖 Learning the basics of **Artificial Intelligence** and building small AI projects  
+- 🌐 Exploring **Web Development** and creating beginner-friendly websites and apps  
+- ⚡ Strengthening my **programming fundamentals** through hands-on projects in C, C++ and Python  
+
 
 ---
 
