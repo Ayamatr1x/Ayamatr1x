@@ -8,9 +8,9 @@
 
 
 ## 🔭 Currently Learning & Building
-- 🤖 Learning the basics of **Artificial Intelligence** and building small AI projects  
-- 🌐 Exploring **Web Development** and creating beginner-friendly websites and apps  
-- ⚡ Strengthening my **programming fundamentals** through hands-on projects in C, C++ and Python  
+- Learning the basics of **Artificial Intelligence** and building small AI projects  
+- Exploring **Web Development** and creating beginner-friendly websites and apps  
+- Strengthening my **programming fundamentals** through hands-on projects in C, C++ and Python  
 
 
 ---
@@ -37,10 +37,10 @@
 ---
 
 ## 📈 Career Snapshot
-- 🎓 Final-year CSE Student @ Manipal University (Graduating 2025)  
-- 🛠 Built **AI Chatbots, Automation Workflows, and AR Streaming Apps**  
-- 🔍 Exploring **System Software, Compilers, and AI**  
-- 🌐 Interested in **AI / Wev / Embedded ** 
+- Final-year CSE Student @ Manipal University (Graduating 2025)  
+- Built **AI Chatbots, Automation Workflows, and AR Streaming Apps**  
+- Exploring **System Software, Compilers, and AI**  
+- Interested in **AI / Wev / Embedded ** 
 
 ---
 
