@@ -122,16 +122,81 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+### 📈 Performance Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aenq&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+### 🎯 Key Statistics
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aenq&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6e96&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="70%"/>
+
+</div>
+
+<div align="center">
+
+### 📉 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6e96" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=aenq&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<details>
+<summary>📊 <b>More Stats</b></summary>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aenq&theme=tokyonight" alt="Repos per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aenq&theme=tokyonight" alt="Most Commit Language" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aenq&theme=tokyonight" alt="Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aenq&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Fun Fact:** These stats update automatically! Check back regularly to see my progress 🚀
+
 </div>
 
 ---
