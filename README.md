@@ -1,62 +1,181 @@
-# Hi there 👋 I'm Ayam Kaushik
+<div align="center">
+  
+# 👋 Hi there, I'm Ayam Kaushik
 
-💻 **Computer Science Engineering Student (2025 Grad)**  
-🌟 Passionate about **System Software, Embedded Systems, AI, and Cloud**  
-🚀 Building **compilers, AI-powered tools, automation workflows, and stereoscopic streaming apps**  
-🎯 Preparing for roles as a **Software Engineer** or **AI Engineer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%26+System+Software+Enthusiast;Full+Stack+Developer;Cloud+%26+Embedded+Systems+Explorer" alt="Typing SVG" />
 
----
+<p align="center">
+  <a href="mailto:ayamkaushik69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ayamkaushik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="tel:+917330986163"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+</p>
 
-## 🔭 What I'm Working On
-- Diving into **Artificial Intelligence** with small-scale AI projects  
-- Exploring **Web Development** to craft user-friendly websites and apps  
-- Strengthening **programming fundamentals** with hands-on projects in **C, C++, Python**
+<img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
----
-
-## 💼 Experience
-- **Software Development Intern @ One Immersive** (May 2023 – Jul 2023, Hyderabad)  
-  - Built an **AR application** using **Unity, ARCore, and Google Cloud Services**  
-  - Enhanced **user engagement** through real-time, immersive experiences  
-
-- **Cloud Infra & Security Intern @ Celebal Technologies** (May 2024 – Jul 2024)  
-  - Automated **AI workflows** using **n8n**, cutting manual effort by 60%  
-  - Developed **AI agents** with **Hugging Face transformers** for data parsing  
-  - Created **interactive dashboards** for real-time monitoring  
+</div>
 
 ---
 
-## 🛠 Tech Stack
-**Languages:**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+## 🚀 About Me
 
-**Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)  
+```python
+class AyamKaushik:
+    def __init__(self):
+        self.username = "aenq"
+        self.role = "Software Engineer | AI Engineer"
+        self.education = "CSE @ Manipal University (Class of 2025)"
+        self.location = "Hyderabad, Telangana, India"
+        self.interests = ["AI/ML", "System Software", "Embedded Systems", 
+                         "Cloud Computing", "Compilers", "Web Development"]
+        
+    def current_focus(self):
+        return [
+            "🤖 Building AI-powered tools and automation workflows",
+            "🔧 Exploring compiler design and system software",
+            "☁️ Mastering cloud infrastructure and deployment",
+            "📱 Developing AR/VR applications with Unity",
+            "💻 Strengthening DSA and programming fundamentals"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-
-**Cloud & Infra:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-
-**Other Skills:** AI/ML, LLM Fine-tuning, Compilers, Embedded Systems  
-
----
-
-## 📈 Career Snapshot
-- Final-year **CSE Student @ Manipal University** (Graduating 2025)  
-- Built **AI Chatbots, Automation Workflows, and AR Streaming Apps**  
-- Exploring **System Software, Compilers, and AI**  
-- Passionate about **AI, Web Development, and Embedded Systems**  
-
----
-
-## 🌐 Let's Connect
-- 📍 **Telangana, India**  
-- 📧 [ayamkaushik69@gmail.com](mailto:ayamkaushik69@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayamkaushik)  
-- 📱 **+91 7330986163**  
+me = AyamKaushik()
+me.say_hi()
+```
 
 ---
 
-*“Code is poetry, and I’m writing my masterpiece, one line at a time.”*
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Celebal Technologies
+**Cloud Infra & Security Intern**  
+*May 2024 – Jul 2024*
+
+- ⚡ Automated AI workflows using **n8n**, reducing manual effort by **60%**
+- 🤖 Developed AI agents with **Hugging Face transformers**
+- 📊 Created interactive dashboards for real-time monitoring
+- ☁️ Worked with Azure cloud infrastructure
+
+</td>
+<td width="50%">
+
+### 🎮 One Immersive
+**Software Development Intern**  
+*May 2023 – Jul 2023*
+
+- 🥽 Built AR application using **Unity & ARCore**
+- ☁️ Integrated **Google Cloud Services**
+- 📈 Enhanced user engagement through immersive experiences
+- 🎯 Delivered real-time interactive features
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Specialized Skills
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Compilers](https://img.shields.io/badge/Compilers-00599C?style=for-the-badge&logo=llvm&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🧠 **Mastering AI/ML**: Building small-scale AI projects and exploring LLMs
+- 🔨 **Compiler Development**: Deep diving into system software and compiler design
+- 🌐 **Full Stack Mastery**: Creating production-ready web applications
+- 📚 **DSA Excellence**: Preparing for technical interviews at top tech companies
+- 🚀 **Open Source**: Contributing to impactful open-source projects
+
+---
+
+## 🏆 Achievements & Highlights
+
+```
+🎓 Graduating 2025 - Computer Science Engineering
+💼 2 Successful Internships in AI & Cloud
+🤖 Built AI Chatbots & Automation Workflows
+🥽 Developed AR Streaming Applications
+☁️ Cloud Infrastructure & Security Projects
+⚡ 60% Efficiency Improvement through Automation
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**"Code is poetry, and I'm writing my masterpiece, one line at a time."**
+
+[![Email](https://img.shields.io/badge/ayamkaushik69@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayamkaushik69@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Ayam_Kaushik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayamkaushik)
+[![Location](https://img.shields.io/badge/Hyderabad,_India-FF5722?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
+
+### 💬 Leave a message in my guestbook!
+<a href="https://github.com/aenq/aenq/issues/3#issuecomment-new">
+  <img src="https://img.shields.io/badge/Sign_My_Guestbook-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Guestbook"/>
+</a>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
