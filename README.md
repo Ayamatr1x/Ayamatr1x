@@ -10,7 +10,7 @@
   <a href="tel:+917330986163"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
 
 </div>
 
