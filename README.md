@@ -1,22 +1,38 @@
 <div align="center">
-  
-# 👋 Hi there, I'm Ayam Kaushik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%26+System+Software+Enthusiast;Full+Stack+Developer;Cloud+%26+Embedded+Systems+Explorer" alt="Typing SVG" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayam%20Kaushik&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<p align="center">
-  <a href="mailto:ayamkaushik69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/ayamkaushik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="tel:+917330986163"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+AI+Engineer;Building+the+Future+with+AI;Cloud+%7C+Compilers+%7C+Systems;Let's+Code+Something+Amazing!" alt="Typing SVG" /></a>
 
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
+---
+
+### 🎓 CSE @ Manipal University (Class of 2025) 
+### 📍 Hyderabad, Telangana, India
+
+<a href="mailto:ayamkaushik69@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/ayamkaushik">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/aenq">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+## 🌟 About Me
+
+</div>
 
 ```python
 class AyamKaushik:
@@ -25,28 +41,42 @@ class AyamKaushik:
         self.role = "Software Engineer | AI Engineer"
         self.education = "CSE @ Manipal University (Class of 2025)"
         self.location = "Hyderabad, Telangana, India"
-        self.interests = ["AI/ML", "System Software", "Embedded Systems", 
-                         "Cloud Computing", "Compilers", "Web Development"]
+        self.languages_spoken = ["English", "Hindi", "Telugu"]
         
     def current_focus(self):
+        return {
+            "🤖 AI/ML": "Building AI-powered tools and LLM applications",
+            "🔧 Systems": "Exploring compiler design and low-level programming",
+            "☁️ Cloud": "Mastering cloud infrastructure and DevOps",
+            "🥽 AR/VR": "Developing immersive experiences with Unity",
+            "💻 DSA": "Strengthening problem-solving fundamentals"
+        }
+    
+    def get_specializations(self):
         return [
-            "🤖 Building AI-powered tools and automation workflows",
-            "🔧 Exploring compiler design and system software",
-            "☁️ Mastering cloud infrastructure and deployment",
-            "📱 Developing AR/VR applications with Unity",
-            "💻 Strengthening DSA and programming fundamentals"
+            "AI Automation Workflows",
+            "Cloud Infrastructure & Security",
+            "Compiler Development",
+            "Embedded Systems",
+            "Full Stack Development",
+            "AR/VR Applications"
         ]
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
+# Initialize
 me = AyamKaushik()
 me.say_hi()
 ```
 
 ---
 
+<div align="center">
+
 ## 💼 Professional Experience
+
+</div>
 
 <table>
 <tr>
@@ -59,7 +89,7 @@ me.say_hi()
 - ⚡ Automated AI workflows using **n8n**, reducing manual effort by **60%**
 - 🤖 Developed AI agents with **Hugging Face transformers**
 - 📊 Created interactive dashboards for real-time monitoring
-- ☁️ Worked with Azure cloud infrastructure
+- ☁️ Architected Azure cloud infrastructure solutions
 
 </td>
 <td width="50%">
@@ -68,8 +98,8 @@ me.say_hi()
 **Software Development Intern**  
 *May 2023 – Jul 2023*
 
-- 🥽 Built AR application using **Unity & ARCore**
-- ☁️ Integrated **Google Cloud Services**
+- 🥽 Built AR streaming application using **Unity & ARCore**
+- ☁️ Integrated **Google Cloud Services** for scalability
 - 📈 Enhanced user engagement through immersive experiences
 - 🎯 Delivered real-time interactive features
 
@@ -79,89 +109,225 @@ me.say_hi()
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+### 💻 Languages & Frameworks
 
-### Languages
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-### Frameworks & Libraries
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+### 🗄️ Databases
 
-### Cloud & DevOps
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+<p>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
-### Specialized Skills
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Compilers](https://img.shields.io/badge/Compilers-00599C?style=for-the-badge&logo=llvm&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+### ☁️ Cloud & DevOps
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
 
-<div align="center">
+### 🎯 Specialized Skills
 
-**💡 Fun Fact:** These stats update automatically! Check back regularly to see my progress 🚀
+<p>
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/LLM_Fine--tuning-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
+<img src="https://img.shields.io/badge/Compilers-00599C?style=for-the-badge&logo=llvm&logoColor=white" alt="Compilers"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded"/>
+<img src="https://img.shields.io/badge/AR%2FVR-100000?style=for-the-badge&logo=unity&logoColor=white" alt="AR/VR"/>
+</p>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+<div align="center">
 
-- 🧠 **Mastering AI/ML**: Building small-scale AI projects and exploring LLMs
-- 🔨 **Compiler Development**: Deep diving into system software and compiler design
-- 🌐 **Full Stack Mastery**: Creating production-ready web applications
-- 📚 **DSA Excellence**: Preparing for technical interviews at top tech companies
-- 🚀 **Open Source**: Contributing to impactful open-source projects
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aenq&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🎯 Current Goals & Focus Areas
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 AI/ML Mastery
+Building AI-powered applications  
+Fine-tuning LLMs  
+Exploring RAG systems  
+MLOps pipelines
+
+</td>
+<td width="33%" align="center">
+
+### 🔨 System Software
+Compiler development  
+Low-level programming  
+Operating systems  
+Performance optimization
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 Full Stack
+Production-ready web apps  
+Cloud deployment  
+Microservices architecture  
+Real-time applications
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 ## 🏆 Achievements & Highlights
 
-```
-🎓 Graduating 2025 - Computer Science Engineering
-💼 2 Successful Internships in AI & Cloud
-🤖 Built AI Chatbots & Automation Workflows
-🥽 Developed AR Streaming Applications
-☁️ Cloud Infrastructure & Security Projects
-⚡ 60% Efficiency Improvement through Automation
+</div>
+
+```yaml
+🎓 Education: Computer Science Engineering @ Manipal University (Class of 2025)
+💼 Experience: 2 Successful Internships in AI & Cloud Infrastructure
+🤖 AI Projects: Built AI Chatbots, Automation Workflows & LLM Applications
+🥽 AR/VR: Developed Immersive AR Streaming Applications with Unity
+☁️ Cloud: Hands-on with Azure, AWS, GCP Infrastructure & Security
+⚡ Impact: 60% Efficiency Improvement through AI Automation
+🔧 Systems: Exploring Compiler Design & Low-Level Programming
+📚 DSA: Consistent Problem Solving & Interview Preparation
 ```
 
 ---
-
-## 📫 Let's Connect!
 
 <div align="center">
 
-**"Code is poetry, and I'm writing my masterpiece, one line at a time."**
+## 🚀 Featured Projects
 
-[![Email](https://img.shields.io/badge/ayamkaushik69@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayamkaushik69@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Ayam_Kaushik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayamkaushik)
-[![Location](https://img.shields.io/badge/Hyderabad,_India-FF5722?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
+</div>
 
-### 💬 Thank you for visiting my profile!
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Workflow Automation
+Automated complex workflows using n8n and Hugging Face transformers, reducing manual effort by 60%. Built intelligent agents for data processing and analysis.
+
+**Tech:** Python, n8n, Hugging Face, Azure
+
+</td>
+<td width="50%">
+
+### 🥽 AR Streaming Application
+Developed an immersive AR application using Unity and ARCore, integrated with Google Cloud Services for real-time streaming and user interaction.
+
+**Tech:** Unity, C#, ARCore, GCP
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Real-Time Monitoring Dashboard
+Created interactive dashboards for real-time monitoring of AI workflows and cloud infrastructure with advanced analytics capabilities.
+
+**Tech:** React, Node.js, MongoDB, WebSocket
+
+</td>
+<td width="50%">
+
+### 🔧 Compiler Development
+Working on a custom compiler for a domain-specific language, exploring lexical analysis, parsing, and code generation techniques.
+
+**Tech:** C++, LLVM, Flex, Bison
+
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
+<div align="center">
+
+## 💡 What I'm Learning
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate!
+
+<p>
+<a href="mailto:ayamkaushik69@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/ayamkaushik">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/aenq">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/aenq">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+</p>
+
+### 💬 Open to:
+✨ Full-time Software Engineering opportunities  
+🤝 Collaboration on AI/ML and System Software projects  
+📚 Contributing to Open Source  
+💡 Discussing technology, compilers, and innovation
+
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry,%20and%20I'm%20writing%20my%20masterpiece,%20one%20line%20at%20a%20time.&author=Ayam%20Kaushik" width="100%" alt="Quote"/>
+
+---
+
+### ⭐ If you find my work interesting, consider giving my repositories a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
