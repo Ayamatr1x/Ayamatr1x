@@ -12,7 +12,7 @@
 
 ---
 
-<div>
+<div align="left">
 
 ## 🌟 About Me
 
