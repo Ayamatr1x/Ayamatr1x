@@ -6,8 +6,7 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+AI+Engineer;Building+the+Future+with+AI;Cloud+%7C+Compilers+%7C+Systems;Let's+Code+Something+Amazing!" alt="Typing SVG" /></a>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+
 
 ---
 
@@ -298,9 +297,7 @@ Working on a custom compiler for a domain-specific language, exploring lexical a
 
 ---
 
-### 💭 *"Code is poetry, and I'm writing my masterpiece, one line at a time."*
 
----
 
 ### ⭐ If you find my work interesting, consider giving my repositories a star!
 
