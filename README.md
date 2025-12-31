@@ -167,11 +167,21 @@ me.say_hi()
 
 <div align="center">
 
+## 📊 GitHub Statistics
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aenq&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-## 🎯 Current Goals & Focus Areas
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Goals & Focus Areas
 
 <table>
 <tr>
@@ -204,6 +214,8 @@ Real-time applications
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -290,3 +302,19 @@ Working on a custom compiler for a domain-specific language, exploring lexical a
 </p>
 
 ### 💬 Open to:
+✨ Full-time Software Engineering opportunities  
+🤝 Collaboration on AI/ML and System Software projects  
+📚 Contributing to Open Source  
+💡 Discussing technology, compilers, and innovation
+
+---
+
+### 💭 *"Code is poetry, and I'm writing my masterpiece, one line at a time."*
+
+---
+
+### ⭐ If you find my work interesting, consider giving my repositories a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
