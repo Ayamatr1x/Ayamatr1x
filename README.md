@@ -65,7 +65,6 @@ class AyamKaushik:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
-# Initialize
 me = AyamKaushik()
 me.say_hi()
 ```
@@ -174,6 +173,7 @@ me.say_hi()
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aenq&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
 
 </div>
 
@@ -287,16 +287,6 @@ Working on a custom compiler for a domain-specific language, exploring lexical a
 
 <div align="center">
 
-## 💡 What I'm Learning
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aenq&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 Let's Connect & Collaborate!
 
 <p>
@@ -309,25 +299,6 @@ Working on a custom compiler for a domain-specific language, exploring lexical a
 <a href="https://github.com/aenq">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://twitter.com/aenq">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
 </p>
 
 ### 💬 Open to:
-✨ Full-time Software Engineering opportunities  
-🤝 Collaboration on AI/ML and System Software projects  
-📚 Contributing to Open Source  
-💡 Discussing technology, compilers, and innovation
-
----
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry,%20and%20I'm%20writing%20my%20masterpiece,%20one%20line%20at%20a%20time.&author=Ayam%20Kaushik" width="100%" alt="Quote"/>
-
----
-
-### ⭐ If you find my work interesting, consider giving my repositories a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
