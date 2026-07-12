@@ -1,8 +1,6 @@
-# Hi Humans
 
 ![Banner](assets/banner.svg)
 
----
 
 ## About Me
 
