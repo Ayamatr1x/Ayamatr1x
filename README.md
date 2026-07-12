@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi Humans
 
 ![Banner](assets/banner.svg)
 
