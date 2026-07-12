@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- 
   DYNAMIC THEME README
   themes: dark, light, neon, ocean, forest, cyber
@@ -129,3 +130,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+=======
+# Hi 👋
+
+![Banner](assets/banner.svg)
+>>>>>>> b65138b (added textures)

@@ -1,0 +1,1229 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="400"
+     viewBox="0 0 1200 400">
+
+<foreignObject width="100%" height="100%">
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+<style>
+
+html,
+body{
+margin:0;
+width:100%;
+height:100%;
+overflow:hidden;
+font-family:Segoe UI,Arial,sans-serif;
+}
+
+.scene{
+
+position:relative;
+width:1200px;
+height:400px;
+overflow:hidden;
+background:#05070d;
+
+}
+
+/* =========================
+   SKY
+========================= */
+
+.sky{
+
+position:absolute;
+inset:0;
+
+background:
+
+radial-gradient(circle at top,#13223f,#05070d 70%);
+
+}
+
+/* =========================
+   STARS
+========================= */
+
+.star{
+
+position:absolute;
+width:3px;
+height:3px;
+background:white;
+animation:twinkle 5s infinite;
+}
+
+@keyframes twinkle{
+
+0%,100%{
+
+opacity:.2;
+transform:scale(.8);
+
+}
+
+50%{
+
+opacity:1;
+transform:scale(1.5);
+
+}
+
+}
+
+/* Star Positions */
+
+.s1{top:40px;left:80px;animation-delay:.2s;}
+.s2{top:70px;left:200px;animation-delay:1s;}
+.s3{top:30px;left:420px;animation-delay:2s;}
+.s4{top:120px;left:700px;animation-delay:3s;}
+.s5{top:50px;left:900px;animation-delay:4s;}
+.s6{top:90px;left:1030px;animation-delay:2.4s;}
+.s7{top:20px;left:1140px;animation-delay:1.8s;}
+.s8{top:160px;left:300px;animation-delay:5s;}
+.s9{top:180px;left:600px;animation-delay:3.5s;}
+.s10{top:150px;left:100px;animation-delay:4.6s;}
+.s11{top:80px;left:520px;}
+.s12{top:200px;left:870px;}
+.s13{top:140px;left:1080px;}
+.s14{top:30px;left:980px;}
+.s15{top:180px;left:1180px;}
+
+/* =========================
+   MOON
+========================= */
+
+.moon{
+
+position:absolute;
+
+right:120px;
+top:45px;
+
+width:70px;
+height:70px;
+
+border-radius:50%;
+
+background:#eef6ff;
+
+box-shadow:
+
+0 0 15px #8be9fd,
+0 0 35px #38bdf8,
+0 0 80px #38bdf8;
+
+animation:moonGlow 5s ease-in-out infinite;
+
+}
+
+@keyframes moonGlow{
+
+0%,100%{
+
+transform:scale(1);
+
+box-shadow:
+
+0 0 20px #8be9fd,
+0 0 45px #38bdf8,
+0 0 80px #38bdf8;
+
+}
+
+50%{
+
+transform:scale(1.08);
+
+box-shadow:
+
+0 0 40px #67e8f9,
+0 0 90px #38bdf8,
+0 0 140px #38bdf8;
+
+}
+
+}
+
+/* =========================
+   AURORA
+========================= */
+
+.aurora{
+
+position:absolute;
+
+width:1700px;
+height:500px;
+
+left:-300px;
+top:-150px;
+
+opacity:.22;
+
+background:
+
+linear-gradient(
+90deg,
+
+#00ffd5,
+
+#00d4ff,
+
+#7c3aed,
+
+#00ffd5
+
+);
+
+filter:blur(110px);
+
+animation:aurora 22s linear infinite alternate;
+
+}
+
+@keyframes aurora{
+
+0%{
+
+transform:translateX(-120px)
+rotate(0deg);
+
+}
+
+100%{
+
+transform:translateX(120px)
+rotate(4deg);
+
+}
+
+}
+
+/* =========================
+   FOG
+========================= */
+
+.fog{
+
+position:absolute;
+
+bottom:-80px;
+
+width:1400px;
+height:180px;
+
+background:
+
+radial-gradient(circle,#ffffff22,transparent 70%);
+
+filter:blur(50px);
+
+animation:fogMove 20s linear infinite;
+
+}
+
+@keyframes fogMove{
+
+0%{
+
+transform:translateX(-120px);
+
+}
+
+100%{
+
+transform:translateX(120px);
+
+}
+
+}
+
+/* =========================
+   SCANLINE
+========================= */
+
+.scan{
+
+position:absolute;
+
+width:100%;
+height:2px;
+
+background:#00ffff66;
+
+animation:scanline 8s linear infinite;
+
+}
+
+@keyframes scanline{
+
+0%{
+
+top:-10px;
+
+}
+
+100%{
+
+top:410px;
+
+}
+
+}
+/* =========================
+   CITY
+========================= */
+
+.city{
+
+position:absolute;
+
+left:0;
+bottom:0;
+
+width:1200px;
+height:240px;
+
+}
+
+/* =========================
+   BUILDINGS
+========================= */
+
+.building{
+
+position:absolute;
+
+bottom:0;
+
+background:#0d1117;
+
+border-top:2px solid #1f2937;
+
+box-shadow:
+0 0 12px rgba(0,255,255,.15);
+
+overflow:hidden;
+
+}
+
+/* Building Sizes */
+
+.b1{
+left:0;
+width:80px;
+height:180px;
+}
+
+.b2{
+left:85px;
+width:110px;
+height:260px;
+}
+
+.b3{
+left:205px;
+width:70px;
+height:170px;
+}
+
+.b4{
+left:280px;
+width:120px;
+height:300px;
+}
+
+.b5{
+left:410px;
+width:95px;
+height:220px;
+}
+
+.b6{
+left:515px;
+width:140px;
+height:330px;
+}
+
+.b7{
+left:665px;
+width:100px;
+height:260px;
+}
+
+.b8{
+left:775px;
+width:140px;
+height:340px;
+}
+
+.b9{
+left:925px;
+width:90px;
+height:230px;
+}
+
+.b10{
+left:1025px;
+width:175px;
+height:280px;
+}
+
+/* =========================
+   PIXEL WINDOWS
+========================= */
+
+.building::before{
+
+content:"";
+
+position:absolute;
+
+inset:12px;
+
+background-image:
+
+repeating-linear-gradient(
+to right,
+#00ffd5 0 5px,
+transparent 5px 14px
+),
+
+repeating-linear-gradient(
+to bottom,
+#00ffd5 0 5px,
+transparent 5px 14px
+);
+
+opacity:.35;
+
+animation:windowBlink 5s infinite;
+
+}
+
+@keyframes windowBlink{
+
+0%,100%{
+
+opacity:.18;
+
+filter:brightness(.8);
+
+}
+
+20%{
+
+opacity:.35;
+
+}
+
+40%{
+
+opacity:.65;
+
+}
+
+60%{
+
+opacity:.25;
+
+}
+
+80%{
+
+opacity:.55;
+
+}
+
+}
+
+/* Each Building Flickers Differently */
+
+.b1::before{animation-delay:.2s;}
+.b2::before{animation-delay:1.4s;}
+.b3::before{animation-delay:3s;}
+.b4::before{animation-delay:2s;}
+.b5::before{animation-delay:4.5s;}
+.b6::before{animation-delay:2.6s;}
+.b7::before{animation-delay:5.2s;}
+.b8::before{animation-delay:1s;}
+.b9::before{animation-delay:4s;}
+.b10::before{animation-delay:3.3s;}
+
+/* =========================
+   ROOFTOP ANTENNAS
+========================= */
+
+.b2::after,
+.b4::after,
+.b6::after,
+.b8::after{
+
+content:"";
+
+position:absolute;
+
+top:-30px;
+left:50%;
+
+width:2px;
+height:30px;
+
+background:#7dd3fc;
+
+box-shadow:
+0 0 8px cyan;
+
+}
+
+/* =========================
+   CITY GLOW
+========================= */
+
+.city{
+
+filter:
+drop-shadow(0 0 15px rgba(0,255,255,.15));
+
+}
+/* ===========================
+TERMINAL
+=========================== */
+
+.terminal{
+
+position:absolute;
+
+left:70px;
+top:65px;
+
+width:460px;
+
+padding:20px;
+
+background:rgba(8,12,20,.45);
+
+backdrop-filter:blur(18px);
+
+border:1px solid rgba(0,255,255,.25);
+
+border-radius:18px;
+
+box-shadow:
+
+0 0 25px rgba(0,255,255,.15);
+
+animation:
+
+floatCard 6s ease-in-out infinite;
+
+}
+
+@keyframes floatCard{
+
+0%,100%{
+
+transform:translateY(0);
+
+}
+
+50%{
+
+transform:translateY(-8px);
+
+}
+
+}
+
+.titlebar{
+
+display:flex;
+
+gap:8px;
+
+margin-bottom:20px;
+
+}
+
+.dot{
+
+width:12px;
+
+height:12px;
+
+border-radius:50%;
+
+}
+
+.red{
+
+background:#ff5f57;
+
+}
+
+.yellow{
+
+background:#ffbd2e;
+
+}
+
+.green{
+
+background:#28c840;
+
+}
+
+/* ===========================
+TEXT
+=========================== */
+
+.content{
+
+font-family:
+
+Consolas,
+monospace;
+
+font-size:22px;
+
+color:#c9faff;
+
+}
+
+.prompt{
+
+color:#00ffd5;
+
+margin-right:8px;
+
+}
+
+.line{
+
+margin-top:12px;
+
+opacity:.85;
+
+}
+
+/* ===========================
+TYPING
+=========================== */
+
+.typing{
+
+display:inline-block;
+
+overflow:hidden;
+
+white-space:nowrap;
+
+width:0;
+
+animation:
+
+typing 4s steps(18) forwards;
+
+}
+
+@keyframes typing{
+
+from{
+
+width:0;
+
+}
+
+to{
+
+width:210px;
+
+}
+
+}
+
+/* ===========================
+CURSOR
+=========================== */
+
+.cursor{
+
+display:inline-block;
+
+width:10px;
+
+height:24px;
+
+background:#00ffd5;
+
+margin-left:4px;
+
+animation:
+
+blink .8s infinite;
+
+}
+
+@keyframes blink{
+
+50%{
+
+opacity:0;
+
+}
+
+}
+
+/* ===========================
+DRONE
+=========================== */
+
+.drone{
+
+position:absolute;
+
+top:95px;
+
+left:-120px;
+
+width:50px;
+
+height:20px;
+
+animation:
+
+flyDrone 22s linear infinite;
+
+}
+
+.body{
+
+position:absolute;
+
+width:50px;
+
+height:10px;
+
+background:#1f2937;
+
+border-radius:20px;
+
+box-shadow:
+
+0 0 10px cyan;
+
+}
+
+.light{
+
+position:absolute;
+
+right:-5px;
+
+top:2px;
+
+width:8px;
+
+height:8px;
+
+border-radius:50%;
+
+background:#00ffff;
+
+box-shadow:
+
+0 0 12px cyan;
+
+animation:
+
+pulseLight 1s infinite;
+
+}
+
+@keyframes pulseLight{
+
+50%{
+
+opacity:.3;
+
+}
+
+}
+
+@keyframes flyDrone{
+
+0%{
+
+transform:
+
+translateX(-150px)
+
+translateY(0);
+
+}
+
+20%{
+
+transform:
+
+translateX(350px)
+
+translateY(-10px);
+
+}
+
+50%{
+
+transform:
+
+translateX(700px)
+
+translateY(12px);
+
+}
+
+80%{
+
+transform:
+
+translateX(1000px)
+
+translateY(-8px);
+
+}
+
+100%{
+
+transform:
+
+translateX(1450px)
+
+translateY(0);
+
+}
+
+}
+/* =========================
+   REDUCED MOTION
+========================= */
+/* ==========================================
+   NEON GROUND GRID
+========================================== */
+
+.grid{
+
+position:absolute;
+
+bottom:0;
+
+left:-20%;
+
+width:140%;
+
+height:140px;
+
+background-image:
+
+linear-gradient(rgba(0,255,255,.12) 1px, transparent 1px),
+linear-gradient(90deg, rgba(0,255,255,.12) 1px, transparent 1px);
+
+background-size:40px 40px;
+
+transform:
+
+perspective(500px)
+rotateX(70deg);
+
+transform-origin:bottom;
+
+animation:gridMove 12s linear infinite;
+
+opacity:.35;
+
+}
+
+@keyframes gridMove{
+
+from{
+
+background-position:0 0;
+
+}
+
+to{
+
+background-position:0 40px;
+
+}
+
+}
+
+/* ==========================================
+   SHOOTING STAR
+========================================== */
+
+.shooting{
+
+position:absolute;
+
+top:70px;
+
+left:-150px;
+
+width:120px;
+
+height:2px;
+
+background:linear-gradient(to right,#fff,transparent);
+
+box-shadow:0 0 10px white;
+
+transform:rotate(-25deg);
+
+animation:shootingStar 14s linear infinite;
+
+}
+
+@keyframes shootingStar{
+
+0%{
+
+transform:
+translate(-250px,-100px)
+rotate(-25deg);
+
+opacity:0;
+
+}
+
+8%{
+
+opacity:1;
+
+}
+
+25%{
+
+transform:
+translate(1500px,420px)
+rotate(-25deg);
+
+opacity:0;
+
+}
+
+100%{
+
+opacity:0;
+
+}
+
+}
+
+/* ==========================================
+   FLOATING PARTICLES
+========================================== */
+
+.particle{
+
+position:absolute;
+
+width:3px;
+
+height:3px;
+
+background:#00ffff;
+
+border-radius:50%;
+
+opacity:.5;
+
+animation:particleFloat 8s linear infinite;
+
+}
+
+@keyframes particleFloat{
+
+0%{
+
+transform:translateY(40px);
+
+opacity:0;
+
+}
+
+20%{
+
+opacity:.6;
+
+}
+
+100%{
+
+transform:translateY(-180px);
+
+opacity:0;
+
+}
+
+}
+
+/* ==========================================
+   TERMINAL GLOW
+========================================== */
+
+.terminal{
+
+animation:
+
+floatCard 6s ease-in-out infinite,
+
+terminalGlow 4s ease-in-out infinite;
+
+}
+
+@keyframes terminalGlow{
+
+0%,100%{
+
+box-shadow:
+
+0 0 20px rgba(0,255,255,.15);
+
+}
+
+50%{
+
+box-shadow:
+
+0 0 40px cyan,
+0 0 80px rgba(0,255,255,.35);
+
+}
+
+}
+
+/* ==========================================
+   WAVE HAND
+========================================== */
+
+.wave{
+
+display:inline-block;
+
+transform-origin:70% 70%;
+
+animation:waveHand 2.5s infinite;
+
+}
+
+@keyframes waveHand{
+
+0%{transform:rotate(0deg);}
+15%{transform:rotate(18deg);}
+30%{transform:rotate(-8deg);}
+45%{transform:rotate(18deg);}
+60%{transform:rotate(-4deg);}
+100%{transform:rotate(0deg);}
+
+}
+
+/* ==========================================
+   SOCIALS
+========================================== */
+
+.socials{
+
+position:absolute;
+
+bottom:20px;
+
+right:35px;
+
+display:flex;
+
+gap:20px;
+
+font-size:22px;
+
+color:#7dd3fc;
+
+}
+
+.socials span{
+
+transition:.3s;
+
+cursor:default;
+
+}
+
+.socials span:hover{
+
+color:white;
+
+text-shadow:
+
+0 0 10px cyan;
+
+}
+@media(prefers-reduced-motion:reduce){
+
+*{
+
+animation:none!important;
+
+}
+
+}
+
+/* =========================
+   LIGHT MODE
+========================= */
+
+@media(prefers-color-scheme:light){
+
+.scene{
+
+background:#dceeff;
+
+}
+
+.sky{
+
+background:
+
+linear-gradient(#dceeff,#ffffff);
+
+}
+
+}
+
+</style>
+
+<div class="scene">
+
+<div class="sky"></div>
+
+<div class="aurora"></div>
+
+<div class="moon"></div>
+
+<div class="fog"></div>
+
+<div class="scan"></div>
+
+<div class="star s1"></div>
+<div class="star s2"></div>
+<div class="star s3"></div>
+<div class="star s4"></div>
+<div class="star s5"></div>
+<div class="star s6"></div>
+<div class="star s7"></div>
+<div class="star s8"></div>
+<div class="star s9"></div>
+<div class="star s10"></div>
+<div class="star s11"></div>
+<div class="star s12"></div>
+<div class="star s13"></div>
+<div class="star s14"></div>
+<div class="star s15"></div>
+
+<div class="city">
+
+    <div class="building b1"></div>
+    <div class="building b2"></div>
+    <div class="building b3"></div>
+    <div class="building b4"></div>
+    <div class="building b5"></div>
+    <div class="building b6"></div>
+    <div class="building b7"></div>
+    <div class="building b8"></div>
+    <div class="building b9"></div>
+    <div class="building b10"></div>
+
+</div>
+<!-- Glass Terminal -->
+<div class="terminal">
+
+<div class="titlebar">
+<div class="dot red"></div>
+<div class="dot yellow"></div>
+<div class="dot green"></div>
+</div>
+
+<div class="content">
+
+<div class="line1">
+<span class="prompt">$</span>
+<span class="typing">
+Hi, I'm Ayam
+</span>
+<span class="cursor"></span>
+</div>
+
+<div class="line">
+Software Engineer
+</div>
+
+<div class="line">
+DevOps • Cloud • AI
+</div>
+
+<div class="line">
+Building scalable systems...
+</div>
+
+</div>
+
+</div>
+
+<!-- Drone -->
+
+<div class="drone">
+<div class="grid"></div>
+
+<div class="shooting"></div>
+
+<div class="particle"
+style="left:160px;bottom:120px;animation-delay:0s"></div>
+
+<div class="particle"
+style="left:340px;bottom:60px;animation-delay:2s"></div>
+
+<div class="particle"
+style="left:620px;bottom:80px;animation-delay:4s"></div>
+
+<div class="particle"
+style="left:890px;bottom:120px;animation-delay:1s"></div>
+
+<div class="particle"
+style="left:1050px;bottom:60px;animation-delay:5s"></div>
+
+<div class="socials">
+
+<span>🐙</span>
+
+<span>💼</span>
+
+<span>📧</span>
+
+</div>
+<div class="body"></div>
+
+<div class="light"></div>
+
+</div>
+</div>
+
+</div>
+
+</foreignObject>
+
+
+
+</svg>
